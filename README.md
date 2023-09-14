@@ -1,4 +1,4 @@
 # LPSI UCA
-<h5>
+<h2>
   Tempat Dokumentasi Project UCA
-</h5>
+</h2>
