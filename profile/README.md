@@ -1,8 +1,8 @@
 ##LPSI UCA 👋
 
-🙋‍♀️ ini adalah tempat dokumentasi project uca
+**ini adalah tempat dokumentasi project uca**
 <br>
-🌈 semua project di private
+**semua project di private**
 <br>
-🍿 Fun facts - rajanya bangun candi
+**Fun facts - rajanya bangun candi**
 
